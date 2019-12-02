@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## 隐私政策声明
 
-You can use the [editor on GitHub](https://github.com/yangchunhui/privacy_web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+《南山》APP注重您个人隐私的保护。有时候我们需要某些信息才能为您提供您请求的服务，本隐私权声明解释了这些情况下的数据收集和使用情况。本隐私权声明适用于《南山》APP应用产品的所有相关服务。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+您个人信息的搜集
 
-### Markdown
+当我们需要能识别您身份的信息（个人信息）或者可以与您联系的信息时，我们会征求您的同意。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+控制您的个人信息
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+《南山》APP会在法律要求或符合《南山》APP的相关服务条款、软件许可使用协议约定的情况下透露您的个人信息，或者有充分理由相信必须这样做才能：(a) 满足法律的明文规定，或者符合《南山》APP本应用适用的法律程序；（b）符合《南山》APP相关服务条款、软件许可使用协议的约定；(c) 保护《南山》APP的权利或财产，以及 (d) 在紧急情况下保护《南山》APP员工、《南山》APP产品或服务的用户或大众的个人安全。
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+《南山》APP不会未经允许将这些信息与第三方共享，本声明已经列出的情况除外。
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+您个人信息的安全
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yangchunhui/privacy_web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+关于免责
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+就下列相关事宜的发生，《南山》APP不承担任何法律责任：
+
+
+
+1. 《南山》APP根据法律规定或相关政府的要求提供您的个人信息;
+
+
+
+2. 非因《南山》APP原因导致的个人信息的泄漏；
+
+
+
+3. 任何第三方根据《南山》APP各服务条款及声明中所列明的情况使用您的个人信息由此所产生的纠纷；
+
+
+
+4. 任何由于黑客攻击、电脑病毒侵入或政府管制而造成的暂时性服务停止；
+
+
+
+5. 因不可抗力导致的任何后果；
+
+
+
+6. 《南山》APP在各服务条款及声明中列明的免责情形 。
+
+
+
+隐私声明的修订：
+
+
+
+根据需要，将随时修改本隐私声明。我们建议用户定期上网查看最新的隐私政策于使用条款规定。未来任何条款如有更新，我们将不主动提醒用户，亦不会回溯应用在之前所发生的情形，同时不会改变我们对于之前所收集的资料之处理方式。
